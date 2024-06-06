@@ -82,7 +82,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(To-Do-Img/images/unchecked.png);
+    background-image: url("https://www.svgrepo.com/show/346672/checkbox-blank-circle.svg");
     background-size: cover;
     background-position: center;
     top: 8px;
@@ -92,7 +92,7 @@ ul li.checked{
      text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url(To-Do-Img/images/checked.png);
+    background-image: url("https://as1.ftcdn.net/v2/jpg/01/09/34/96/1000_F_109349658_4J4rge1gHrbVsMcEa2pZeMYQ6v0CetJZ.jpg");
 }
 ul li span{
     position: absolute;
